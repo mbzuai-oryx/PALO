@@ -1,10 +1,10 @@
-# PALO: A Polyglot Large Multimodal Model for 5B People
+# 🌍 PALO: A Polyglot Large Multimodal Model for 5B People
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-### Vision-language conversation in English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi, Bengali and Urdu
+Vision-language conversation in English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi, Bengali and Urdu
 
 [![Demo](https://img.shields.io/badge/Online-Demo-red)](https://palo.mbzuai-oryx.ngrok.app)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/comming.soon)
@@ -12,7 +12,7 @@
 ---
 
 ## 📢 Latest Updates
-- **Feb-22-24**- PALO paper and online demo is released. Code, pretrained models and training/evaluation scripts are coming soon!
+- **Feb-23-24**- PALO paper and online demo are released. Code, pretrained models and training/evaluation scripts are coming soon!
 
 ---
 
