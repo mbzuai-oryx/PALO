@@ -31,11 +31,11 @@ The incorporation of diverse instruction sets helps us boost overall performance
 ## 📚 Qualitative Examples of Multilingual Capabilities
 
 <p align="center">
-  <img src="images//palo_demo_1.png" alt="Palo Sample">
+  <img src="palo_demo_1.png" alt="Palo Sample">
 </p>
 
 <p align="center">
-  <img src="images//palo_demo_2.png" alt="Palo Sample">
+  <img src="palo_demo_2.png" alt="Palo Sample">
 </p>
 
 
@@ -43,7 +43,7 @@ The incorporation of diverse instruction sets helps us boost overall performance
 ## 📚 Quantitative Results
 
 <p align="center">
-  <img src="images//PaloQuantResults.png" alt="Palo Results">
+  <img src="PaloQuantResults.png" alt="Palo Results">
 </p>
 
 
