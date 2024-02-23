@@ -21,10 +21,40 @@ Vision-language conversation in English, Chinese, French, Spanish, Russian, Japa
 In pursuit of more inclusive Vision-Language Models (VLMs), this study introduces a Large Multilingual Multimodal Model called \textsc{Palo}. \textsc{Palo} offers visual reasoning capabilities in 10 major languages, including English, Chinese, Hindi, Spanish, French, Arabic, Bengali, Russian, Urdu, and Japanese, that span a total of $\sim$5B people (65\% of the world population). Our approach involves a semi-automated translation approach to adapt the multimodal instruction dataset from English to the target languages using a fine-tuned Large Language Model, thereby ensuring high linguistic fidelity while allowing scalability due to minimal manual effort. 
 The incorporation of diverse instruction sets helps us boost overall performance across multiple languages especially those that are underrepresented like Hindi, Arabic, Bengali, and Urdu. The resulting models are trained across three scales (1.7B, 7B and 13B parameters) to show the generalization and scalability where we observe substantial improvements compared to strong baselines. We also propose the first multilingual multimodal benchmark for the forthcoming approaches to evaluate their vision-language reasoning capabilities across languages.
 
+---
 ## 🏆 Contributions
 1. We develop Palo: the first multilingual Large Multimodal Model (LMM) covering ten major languages, facilitating vision-language reasoning through a generic model capable of generating responses in any of the ten languages.
 2. We assemble an extensive multilingual (10 languages) instruction-tuning dataset, through a critical analysis and subsequent refinement of a state-of-the-art Large Language Model’s target language translations. This dataset is pivotal in improving proficiency in processing and generating content that is linguistically precise across multiple languages.
 3. We enhance the multilingual performance of state-of-the-art LMMs~\cite{liu2023llava,chu2023mobilevlm}  across three distinct scales i.e., 1.7B, 7B, and 13B parameters to demonstrate the scalability of our training pipeline. The resulting polyglot LMMs demonstrate performance gains on diverse language tasks with substantial improvements in understanding and generating content for low-resource languages, e.g., Hindi, Arabic, Bengali, and Urdu, without compromising its high-performance on high-resource languages e.g., English, Chinese, French, and Spanish.
 
+---
+## 📚 Qualitative Examples of Multilingual Capabilities
 
-#### Stay tuned for the updates!
+<p align="center">
+  <img src="images//palo_demo_1.png" alt="Palo Sample">
+</p>
+
+<p align="center">
+  <img src="images//palo_demo_2.png" alt="Palo Sample">
+</p>
+
+
+---
+## 📚 Quantitative Results
+
+<p align="center">
+  <img src="images//PaloQuantResults.png" alt="Palo Results">
+</p>
+
+
+## 📜 Citation
+```bibtex
+
+  @article{PALO2024,
+  title={Palo: A Large Multilingual Multimodal Language Model},
+  author={Muhammad Maaz, Hanoona Rasheed, Abdelrahman Shaker, Salman Khan, Hisham Cholakal, Rao M. Anwer, Tim Baldwin, Michael Felsberg, Fahad S. Khan},
+  journal={arXiv 2402.14818},
+  year={2024},
+  url={https://arxiv.org/abs/2402.14818}
+}
+```
