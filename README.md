@@ -12,6 +12,7 @@ Vision-language conversation in English, Chinese, French, Spanish, Russian, Japa
 ---
 
 ## 📢 Latest Updates
+- **Feb-27-24**- PALO multi-lingual dataset is released. Check it out at [MBZUAI/palo_multilingual_dataset](https://huggingface.co/datasets/MBZUAI/palo_multilingual_dataset) 🔥🔥
 - **Feb-23-24**- PALO paper and online demo are released. Code, pretrained models and training/evaluation scripts are coming soon!
 
 ---
