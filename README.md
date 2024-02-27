@@ -52,7 +52,7 @@ The incorporation of diverse instruction sets helps us boost overall performance
 
   @article{PALO2024,
   title={Palo: A Large Multilingual Multimodal Language Model},
-  author={Muhammad Maaz, Hanoona Rasheed, Abdelrahman Shaker, Salman Khan, Hisham Cholakal, Rao M. Anwer, Tim Baldwin, Michael Felsberg, Fahad S. Khan},
+  author={Maaz, Muhammad and Rasheed, Hanoona and Shaker, Abdelrahman and Khan, Salman and Cholakal, Hisham and Anwer, Rao M. and Baldwin, Tim and Felsberg, Michael and Khan, Fahad S.},
   journal={arXiv 2402.14818},
   year={2024},
   url={https://arxiv.org/abs/2402.14818}
