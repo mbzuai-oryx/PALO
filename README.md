@@ -1,12 +1,10 @@
-# 🌍 PALO: A Polyglot Large Multimodal Model for 5B People
+# 🌍 PALO: A Polyglot Large Multimodal Model for 5B People (WACV 2025)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Muhammad Maaz](https://www.muhammadmaaz.com)\*, [Hanoona Rasheed](https://www.hanoonarasheed.com/)\*, [Abdelrahman Shaker](https://amshaker.github.io), [Salman Khan](https://salman-h-khan.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Timothy Baldwin](https://eltimster.github.io/www), [Michael Felsberg](https://people.isy.liu.se/cvl/mfe/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
-\* Equally contributing first authors
-
+#### [Hanoona Rasheed](https://www.hanoonarasheed.com/), [Muhammad Maaz](https://www.muhammadmaaz.com), [Abdelrahman Shaker](https://amshaker.github.io), [Salman Khan](https://salman-h-khan.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Timothy Baldwin](https://eltimster.github.io/www), [Michael Felsberg](https://people.isy.liu.se/cvl/mfe/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 ### Vision-language conversation in 10 languages including English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi, Bengali and Urdu
 
@@ -193,11 +191,10 @@ bash scripts/eval/eval_all_languages.sh <path to the trained model> <Output file
 ## 📜 Citation
 ```bibtex
 
-  @article{PALO2024,
-  title={Palo: A Large Multilingual Multimodal Language Model},
-  author={Maaz, Muhammad and Rasheed, Hanoona and Shaker, Abdelrahman and Khan, Salman and Cholakal, Hisham and Anwer, Rao M. and Baldwin, Tim and Felsberg, Michael and Khan, Fahad S.},
-  journal={arXiv 2402.14818},
-  year={2024},
-  url={https://arxiv.org/abs/2402.14818}
-}
+    @inproceedings{PALO,
+        title={Palo: A Large Multilingual Multimodal Language Model},
+        author={Rasheed, Hanoona and Maaz, Muhammad and Shaker, Abdelrahman and Khan, Salman and Cholakal, Hisham and Anwer, Rao M. and Baldwin, Tim and Felsberg, Michael and Khan, Fahad S.},
+        booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)},
+        year={2025}
+    }
 ```
