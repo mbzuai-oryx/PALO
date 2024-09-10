@@ -15,6 +15,7 @@
 ---
 
 ## 📢 Latest Updates
+- **Aug-30-24**: PALO has been accepted at WACV 2025. 🔥🔥
 - **Mar-25-24**: PALO training and evaluation codes, and pretrained checkpoints are released. 🔥🔥
 - **Mar-03-24**: PALO multi-lingual evaluation dataset is released. Check it out at [MBZUAI/multilingual-llava-bench-in-the-wild](https://huggingface.co/datasets/MBZUAI/multilingual-llava-bench-in-the-wild). 🔥🔥
 - **Feb-27-24**: PALO multi-lingual training dataset is released. Check it out at [MBZUAI/palo_multilingual_dataset](https://huggingface.co/datasets/MBZUAI/palo_multilingual_dataset). 🔥🔥
