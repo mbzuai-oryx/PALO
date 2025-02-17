@@ -1,4 +1,4 @@
-# 🌍 PALO: A Polyglot Large Multimodal Model for 5B People (WACV 2025)
+# 🌍 PALO: A Polyglot Large Multimodal Model for 5B People (WACV 2025 - Oral Presentation)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
