@@ -70,7 +70,7 @@ git clone https://github.com/mbzuai-oryx/PALO
 cd PALO
 
 pip install -r requirements.txt
-pip instal flash-attn==2.3.2
+pip install flash-attn==2.3.2
 
 export PYTHONPATH="./:$PYTHONPATH"
 ```
