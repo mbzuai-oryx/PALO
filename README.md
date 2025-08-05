@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Hanoona Rasheed](https://www.hanoonarasheed.com/), [Muhammad Maaz](https://www.muhammadmaaz.com), [Abdelrahman Shaker](https://amshaker.github.io), [Salman Khan](https://salman-h-khan.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Timothy Baldwin](https://eltimster.github.io/www), [Michael Felsberg](https://people.isy.liu.se/cvl/mfe/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
+#### [Hanoona Rasheed](https://www.hanoonarasheed.com/), [Muhammad Maaz](https://www.mmaaz60.com), [Abdelrahman Shaker](https://amshaker.github.io), [Salman Khan](https://salman-h-khan.github.io/), [Hisham Cholakkal](https://scholar.google.ae/citations?user=bZ3YBRcAAAAJ&hl=fr), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en), [Timothy Baldwin](https://eltimster.github.io/www), [Michael Felsberg](https://people.isy.liu.se/cvl/mfe/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 ### Vision-language conversation in 10 languages including English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi, Bengali and Urdu
 
